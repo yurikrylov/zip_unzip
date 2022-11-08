@@ -1,0 +1,18 @@
+.font {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    text-transform: none;
+    color: #FFFFFF;
+}
+
+.navbarBar {
+    border-radius: 20px;
+    background: #9165F7;
+    height: 76px;
+}
+@media (max-width : 530px) {
+    .navbarBar {height:200px;}
+}
+

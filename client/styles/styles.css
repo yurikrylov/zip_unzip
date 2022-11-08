@@ -1,0 +1,9 @@
+.mainContainer {
+    margin: 100px 0;
+    position: absolute;
+    left: 0;
+}
+
+@media (max-width : 530px) {
+    .mainContainer {margin: 200px 0;}
+}
